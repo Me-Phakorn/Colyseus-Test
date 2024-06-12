@@ -1,13 +1,10 @@
-## Installation
-
-```bash
-$ npm install
-```
 
 ## Running the Server
 
 ```bash
 $ cd testserver/
+
+$ npm install
 
 $ npm run schema-codegen 
 
